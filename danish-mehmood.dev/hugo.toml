@@ -209,9 +209,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    GitHub = "https://github.com/danish-mehmood"
-    Linkedin = "https://www.linkedin.com/in/danish-mehmood-215480163/"
-    Medium = "https://medium.com/@danishmehmood"
+    GitHub = "/danish-mehmood"
+    Linkedin = "/in/danish-mehmood-215480163/"
+    Medium = "/@danishmehmood"
     Email = "rdm355190@gmail.com"
     RSS = true # 
     Twitter = ""
