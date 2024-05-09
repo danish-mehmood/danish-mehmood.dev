@@ -1,6 +1,6 @@
-baseURL = 'https://danish-mehmood.dev/'
+baseURL = 'https://danish-mehmood.github.io/'
 languageCode = 'en-us'
-title = 'danish-mehmood.dev'
+title = 'danish-mehmood'
 theme='LoveIt'
 # Author config
 [author]
