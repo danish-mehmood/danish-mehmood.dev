@@ -8,7 +8,7 @@ author: "danish mehmood"
 authorLink: ""
 description: "this is the description"
 license: ""
-images: []
+images: ["images/posts/software-design-philosophy/software-design.png"]
 
 tags: ["software design"]
 categories: ["software design"]
@@ -55,7 +55,7 @@ library:
     # Or
     # someJS = "https://cdn.example.com/some.js"
 seo:
-  images: []
+  images: ["images/posts/software-design-philosophy/software-design.png"]
   # ...
 ---
 
