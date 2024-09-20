@@ -147,7 +147,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
-    svgFavicon = ""
+    svgFavicon = "images/avatar.jpg"
     # Android browser theme color
     themeColor = "#ffffff"
     # Safari mask icon color
@@ -157,13 +157,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   #  Search config
   [params.search]
-    enable = false
+    enable = true
     # type of search engine ["lunr", "algolia"]
-    type = "algolia"
+    type = "lunr"
     # max index length of the chunked content
     contentLength = 4000
     # placeholder of the search bar
-    placeholder = ""
+    placeholder = "search the blog"
     #  max number of results length
     maxResultLength = 10
     #  snippet length of the result
@@ -376,7 +376,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       Mix = false
     #  Comment config
     [params.page.comment]
-      enable = false
+      enable = true
       # Disqus comment config
       [params.page.comment.disqus]
         # 
@@ -438,26 +438,26 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       [params.page.comment.utterances]
         enable = false
         # owner/repo
-        repo = "https://github.com/danish-mehmood/blog-comments"
+        repo = "danish-mehmood/Giscus"
         issueTerm = "pathname"
-        label = ""
+        label = "Blog"
         lightTheme = "github-light"
         darkTheme = "github-dark"
       # giscus comment config (https://giscus.app/)
       [params.page.comment.giscus]
         # You can refer to the official documentation of giscus to use the following configuration.
-        enable = false
-        repo = ""
-        repoId = ""
+        enable = true
+        repo = "danish-mehmood/Giscus"
+        repoId = "R_kgDOMZSvQA"
         category = "Announcements"
-        categoryId = ""
+        categoryId = "DIC_kwDOMZSvQM4ChDiJ"
         # automatically adapt the current theme i18n configuration when empty
-        lang = ""
+        lang = "en"
         mapping = "pathname"
         reactionsEnabled = "1"
-        emitMetadata = "0"
+        emitMetadata = "1"
         inputPosition = "bottom"
-        lazyLoading = false
+        lazyLoading = true
         lightTheme = "light"
         darkTheme = "dark"
     #  Third-party library config
