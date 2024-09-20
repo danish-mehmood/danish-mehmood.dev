@@ -1,20 +1,20 @@
 ---
-title: "My First Post"
-subtitle: ""
-date: 2024-07-21T23:15:23+05:00
-lastmod: 2024-07-21T23:15:23+05:00
-draft: true
-author: ""
+title: "Philosophy of Software Design Golang Part One"
+subtitle: "subtitle"
+date: 2024-09-20T20:04:02+05:00
+lastmod: 2024-09-20T20:04:02+05:00
+draft: false
+author: "danish mehmood"
 authorLink: ""
-description: ""
+description: "this is the description"
 license: ""
 images: []
 
-tags: []
-categories: []
+tags: ["software design"]
+categories: ["software design"]
 
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "images/posts/software-design-philosophy/software-design.png"
+featuredImagePreview: "images/posts/software-design-philosophy/software-design.png"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -45,15 +45,12 @@ comment:
   # ...
 library:
   css:
-    - "/css/first.css"
     # someCSS = "some.css"
     # located in "assets/"
     # Or
     # someCSS = "https://cdn.example.com/some.css"
   js:
-    - "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"
-    - "js/dummy.js"
-    # someJS = "dummy.js"
+    # someJS = "some.js"
     # located in "assets/"
     # Or
     # someJS = "https://cdn.example.com/some.js"
@@ -63,8 +60,3 @@ seo:
 ---
 
 <!--more-->
-
-## this is new
-
-<div class="surround"><div class="box green">linear</div>
-<div class="box purple">bounce</div></div>
