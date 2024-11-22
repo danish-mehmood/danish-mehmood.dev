@@ -5,11 +5,13 @@ date: 2024-09-20T20:04:02+05:00
 lastmod: 2024-09-20T20:04:02+05:00
 draft: false
 author: "danish mehmood"
-authorLink: ""
-description: "this is the description"
+authorLink: "https://github.com"
+description: "this is the new description"
 license: ""
 images: ["images/posts/software-design-philosophy/software-design.png"]
-
+resources:
+  - name: "featured-image"
+    src: "featured-image.png"
 tags: ["software design"]
 categories: ["software design"]
 
