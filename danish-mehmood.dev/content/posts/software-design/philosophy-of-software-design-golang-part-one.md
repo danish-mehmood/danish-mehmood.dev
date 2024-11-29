@@ -3,20 +3,19 @@ title: "Philosophy of Software Design Golang Part One"
 subtitle: "subtitle"
 date: 2024-09-20T20:04:02+05:00
 lastmod: 2024-09-20T20:04:02+05:00
-draft: false
+draft: true
 author: "danish mehmood"
 authorLink: "https://github.com"
 description: "this is the new description here we go  "
 license: ""
 images: ["images/posts/software-design-philosophy/software-design.png"]
+featuredImage: "images/posts/software-design-philosophy/software-design.png"
+featuredImagePreview: "images/posts/software-design-philosophy/software-design.png"
 resources:
   - name: "featured-image"
     src: "featured-image.png"
 tags: ["software design"]
 categories: ["software design"]
-
-featuredImage: "images/posts/software-design-philosophy/software-design.png"
-featuredImagePreview: "images/posts/software-design-philosophy/software-design.png"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
