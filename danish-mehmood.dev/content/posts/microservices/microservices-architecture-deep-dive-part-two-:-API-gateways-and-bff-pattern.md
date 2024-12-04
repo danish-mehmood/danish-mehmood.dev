@@ -1,10 +1,10 @@
 ---
 title: "Microservices Architecture Deep Dive Part Two : API Gateways and Backend For Frontend Pattern"
-subtitle: ""
+subtitle: "The gateway patterns for microservices"
 date: 2024-12-03T01:18:25+05:00
 lastmod: 2024-12-03T01:18:25+05:00
 draft: false
-author: ""
+author: "danish mehmood"
 authorLink: ""
 description: "In this blog post i discuss the utility of API gateways, what problem they solve? and i will also discuss the importance of BFF pattern"
 license: ""
@@ -68,6 +68,15 @@ seo:
 API gateway is a common pattern majority of microservices out in the world follow, to address some issues and Backend for frontend is a pattern which is a natural extension of API gateway pattern which helps the microservices scale very smoothly.
 
 <!--more-->
+
+{{< admonition note "Table Of Contents" >}}
+
+:(fa-solid fa-arrow-right-long): Part 1 - [Microservices Architecture Deep Dive](https://danish-mehmood.github.io/microservices-architecture-deep-dive-part-one/)
+
+:(fa-solid fa-arrow-right-long): Part 2 - **API Gateways and Backend For Frontend Pattern** :(fa-solid fa-arrow-left-long): you are here :(fa-solid fa-location-crosshairs):
+
+:(fa-solid fa-arrow-right-long): Part 3 - [Microservices Communication]()
+{{< /admonition >}}
 
 ### The Problem
 
