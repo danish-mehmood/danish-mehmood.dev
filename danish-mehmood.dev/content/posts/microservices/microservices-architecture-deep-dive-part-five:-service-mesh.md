@@ -5,7 +5,7 @@ date: 2024-12-09T23:19:42+05:00
 lastmod: 2024-12-09T23:19:42+05:00
 draft: false
 author: "danish mehmood"
-authorLink: ""
+authorLink: "https://github.com/danish-mehmood"
 description: "In this blog post I discuss what service mesh is, what problem does it solve and what are best known service mesh products are"
 license: ""
 images: ["images/posts/microservices/partfive/featuredimage.gif"]

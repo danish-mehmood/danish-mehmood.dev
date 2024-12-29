@@ -5,7 +5,7 @@ date: 2024-12-04T20:02:43+05:00
 lastmod: 2024-12-04T20:02:43+05:00
 draft: false
 author: "danish mehmood"
-authorLink: ""
+authorLink: "https://github.com/danish-mehmood"
 description: "In this blog post i discuss, How microservices communicate, and what are the common patterns followed, this post would be a primer, I will go deeper in to the different patterns in future posts"
 license: ""
 images: ["images/posts/microservices/partthree/featuredimage.gif"]

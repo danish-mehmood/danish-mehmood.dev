@@ -5,7 +5,7 @@ date: 2024-12-05T23:10:52+05:00
 lastmod: 2024-12-05T23:10:52+05:00
 draft: false
 author: "danish mehmood"
-authorLink: ""
+authorLink: "https://github.com/danish-mehmood"
 description: "Service discovery is an essential process in any distributed microservices environment, as it makes the environment scalable and solves a very specific communication problem. In this blog post I will go deep into this process and what are the different patterns used to implement this."
 license: ""
 images: ["images/posts/microservices/partfour/featuredimage.jpg"]

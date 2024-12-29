@@ -5,7 +5,7 @@ date: 2024-11-29T08:08:47+05:00
 lastmod: 2024-11-29T08:08:47+05:00
 draft: false
 author: "danish mehmood"
-authorLink: ""
+authorLink: "https://github.com/danish-mehmood"
 description: "This blog series is all about microservices, we will start with simple definition of microservices and 
 and go all the way to know how to implement them effectively and when do they make sense and when is it a stupid idea 
 to implement microservices"

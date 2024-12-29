@@ -5,7 +5,7 @@ date: 2024-12-26T01:46:08+05:00
 lastmod: 2024-12-26T01:46:08+05:00
 draft: false
 author: "danish mehmood"
-authorLink: ""
+authorLink: "https://github.com/danish-mehmood"
 description: ""
 license: ""
 images: ["images/posts/microservices/partsix/featuredimage.webp"]

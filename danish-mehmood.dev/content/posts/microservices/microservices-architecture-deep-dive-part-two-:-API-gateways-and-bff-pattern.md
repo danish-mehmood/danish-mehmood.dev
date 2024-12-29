@@ -5,7 +5,7 @@ date: 2024-12-03T01:18:25+05:00
 lastmod: 2024-12-03T01:18:25+05:00
 draft: false
 author: "danish mehmood"
-authorLink: ""
+authorLink: "https://github.com/danish-mehmood"
 description: "In this blog post i discuss the utility of API gateways, what problem they solve? and i will also discuss the importance of BFF pattern"
 license: ""
 images: ["images/posts/microservices/parttwo/featuredimage.gif"]
