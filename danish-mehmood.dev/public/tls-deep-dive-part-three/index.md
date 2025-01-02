@@ -1,64 +1,5 @@
----
-title: "Tls Deep Dive Part Three"
-subtitle: "I am sure the last blog post has left you little confused, well don't fret. In this post i will make clear how TLS uses all the cryptographic tools which we have discussed so far."
-date: 2025-01-02T23:19:12+05:00
-lastmod: 2025-01-02T23:19:12+05:00
-draft: false
-author: ""
-authorLink: ""
-description: ""
-license: ""
-images: ["images/posts/TLS/part3/featuredimage.webp"]
-featuredImage: "images/posts/TLS/part3/featuredimage.webp"
-featuredImagePreview: "images/posts/TLS/part3/featuredimage.webp"
-resources:
-  - name: "featured-image"
-    src: "images/posts/TLS/part3/featuredimage.webp"
-tags: ["networking", "security"]
-categories: ["networking"]
+# Tls Deep Dive Part Three
 
-hiddenFromHomePage: false
-hiddenFromSearch: false
-twemoji: false
-lightgallery: true
-ruby: true
-fraction: true
-fontawesome: true
-linkToMarkdown: true
-rssFullText: false
-
-toc:
-  enable: true
-  auto: true
-code:
-  copy: true
-  maxShownLines: 50
-math:
-  enable: false
-  # ...
-mapbox:
-  # ...
-share:
-  enable: true
-  # ...
-comment:
-  enable: true
-  # ...
-library:
-  css:
-    # someCSS = "some.css"
-    # located in "assets/"
-    # Or
-    # someCSS = "https://cdn.example.com/some.css"
-  js:
-    # someJS = "some.js"
-    # located in "assets/"
-    # Or
-    # someJS = "https://cdn.example.com/some.js"
-seo:
-  images: ["images/posts/TLS/part3/featuredimage.webp"]
-  # ...
----
 
 <!--more-->
 
@@ -105,3 +46,4 @@ well, that’s easy, the CA will digitally sign the certificate and if the clien
 ![PKI](images/posts/TLS/part3/image4.webp)
 
 as you can see in the diagram above, this communication scenario creates a triangle, with the client, the server, and the CA on the vertices, this triangle of trust is known by a fancy name Public Key Infrastructure.
+
